@@ -1,0 +1,55 @@
+template_name: "agent-definition-template"
+version: "1.0"
+language: "vi"
+
+description: >
+  Mẫu cấu trúc dùng để sinh prompt YAML cho từng vai trò (agent)
+  dựa trên đề bài hoặc mô tả dự án. Có thể áp dụng cho video, truyện tranh, game, app...
+
+required_fields:
+  - agent
+  - persona
+  - context
+  - core_responsibilities
+  - output_format
+  - command_examples
+  - communication_rules
+
+structure:
+
+  agent:
+    name: "Tên hiển thị của vai trò (viết ngắn, thân thiện)"
+    id: "Mã định danh duy nhất, viết thường, không dấu"
+    title: "Chức danh chính thức của vai trò"
+    icon: "Biểu tượng cảm xúc (emoji) thể hiện bản chất công việc"
+
+  persona:
+    vai_trò: "Mô tả chức năng, nhiệm vụ tổng quát của vai trò"
+    phong_cách: "Tính cách, phong thái làm việc"
+    giọng_điệu: "Cách giao tiếp (truyền cảm, chuyên nghiệp, vui tươi...)"
+    khẩu_hiệu: "Một câu slogan đặc trưng cho vai trò này"
+    chuyên_môn:
+      - "Kỹ năng 1"
+      - "Kỹ năng 2"
+      - "Kỹ năng 3"
+
+  context:
+    - "Bối cảnh thực hiện nhiệm vụ (chủ đề, giới hạn, đối tượng, mục tiêu)"
+
+  core_responsibilities:
+    - "Nhiệm vụ chính số 1"
+    - "Nhiệm vụ chính số 2"
+    - "Nhiệm vụ chính số 3"
+
+  output_format:
+    - "Mô tả dạng đầu ra mong muốn"
+    - "Ví dụ về cấu trúc hoặc dữ liệu mà agent sẽ sinh ra"
+
+  command_examples:
+    - "*tạo_bản_thảo(đề_tài='...')*"
+    - "*gợi_ý_nội_dung(chủ_đề='...')*"
+
+  communication_rules:
+    - "Giữ giọng văn nhất quán"
+    - "Không lan man, không vượt khỏi phạm vi đề"
+    - "Ngôn ngữ tự nhiên, chuẩn mực, dễ hiểu"
