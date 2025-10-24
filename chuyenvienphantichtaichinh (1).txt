@@ -1,0 +1,640 @@
+
+*   **Tiêu đề:** **Chất lượng Tài sản được Kiểm soát, Chi phí Tín dụng Tối ưu**
+*   **Phân tích:** Bất chấp bối cảnh kinh tế còn nhiều bất ổn, Techcombank duy trì chất lượng tài sản ở mức an toàn. Tỷ lệ nợ xấu (NPL) được kiểm soát ổn định ở mức **1.32%**. Đáng chú ý, Chi phí tín dụng (Credit Costs) đã giảm một nửa, từ 1.1% xuống chỉ còn **0.6%**. Tỷ lệ an toàn vốn (CAR) theo Basel II đạt **15.0%**, cao hơn đáng kể so với yêu cầu của NHNN, đảm bảo bộ đệm vốn vững chắc.
+*   **Insight chính:** Việc giảm mạnh chi phí tín dụng cho thấy hiệu quả của các mô hình thẩm định rủi ro và chất lượng của danh mục cho vay. Đây là yếu 
+tố quan trọng đã "đỡ" lợi nhuận không bị suy giảm sâu hơn. Nền tảng rủi ro vững chắc cho phép Ngân hàng tự tin tăng trưởng tín dụng có chọn lọc trong giai đoạn tới.
+*   **Đề xuất trực quan:**
+    *   **Biểu đồ đồng hồ đo (Gauge chart) hoặc Biểu đồ cột:** Hiển thị tỷ lệ NPL của TCB so với ngưỡng cảnh báo (ví dụ 3%).
+    *   **Biểu đồ đường:** Thể hiện xu hướng giảm ấn tượng của Chi phí tín dụng (LTM) qua các quý.
+    *   **Infographic:** Một hình ảnh chiếc khiên với các chỉ số: NPL 1.32%, Coverage Ratio 106.4%, CAR 15.0%.
+
+---
+
+### **Trang 6: Định hướng Chiến lược 2026: Tái tạo Động lực Tăng trưởng**
+
+*   **Tiêu đề:** **Ba Trụ cột Chiến lược cho năm 2026**
+*   **Phân tích:** Dựa trên phân tích toàn diện năm 2025, chúng tôi đề xuất 3 lĩnh vực trọng tâm để tái tạo động lực tăng trưởng lợi nhuận và củng cố vị 
+thế dẫn đầu trong năm 2026. Các chiến lược này tập trung vào việc khai thác sâu hơn các lợi thế sẵn có, đa dạng hóa nguồn thu và tối ưu hóa hiệu quả sử dụng vốn.
+*   **Insight chính:** Chuyển đổi từ tăng trưởng theo chiều rộng (quy mô) sang tăng trưởng theo chiều sâu (hiệu quả và lợi nhuận trên từng khách hàng).  
+*   **Đề xuất trực quan:**
+    *   **Sơ đồ 3 Trụ cột (3 Pillars Diagram):** Một sơ đồ trực quan, hiện đại với 3 cột chính.
+        1.  **Trụ cột 1: KHAI THÁC "MỎ VÀNG" CASA:** Tối đa hóa giá trị từ tệp khách hàng hiện hữu.
+        2.  **Trụ cột 2: PHỤC HỒI THU NHẬP NGOÀI LÃI:** Đa dạng hóa và phát triển các nguồn thu bền vững.
+        3.  **Trụ cột 3: TỐI ƯU HÓA DANH MỤC TÍN DỤNG:** Tăng trưởng có chọn lọc vào các phân khúc lợi suất cao, rủi ro thấp.
+
+---
+
+### **Trang 7: Trọng tâm #1 - Khai thác "Mỏ vàng" CASA**
+
+*   **Tiêu đề:** **Từ Dẫn đầu Huy động đến Dẫn đầu về Tỷ suất Lợi nhuận trên Khách hàng**
+*   **Lý do:** Tệp khách hàng có số dư CASA lớn là những khách hàng có hoạt động tài chính sôi động nhất. Đây là cơ hội vàng để bán chéo các sản phẩm và 
+dịch vụ có tỷ suất lợi nhuận cao, gia tăng doanh thu trên mỗi khách hàng (Revenue per customer).
+*   **Hành động đề xuất:**
+    1.  **Phân tích dữ liệu lớn (Big Data):** Xây dựng chân dung 360 độ của khách hàng CASA để xác định nhu cầu về đầu tư, bảo hiểm, thẻ tín dụng.       
+    2.  **Giải pháp tài chính toàn diện:** Thiết kế các gói sản phẩm (bundle) dành riêng cho phân khúc khách hàng ưu tiên (Priority) và doanh nghiệp (SMEs) có dòng tiền lớn.
+    3.  **Số hóa hành trình Wealth Management:** Đẩy mạnh nền tảng đầu tư số, cung cấp các sản phẩm quỹ, trái phiếu dễ dàng tiếp cận ngay trên ứng dụng di động.
+*   **Đề xuất trực quan:**
+    *   **Sơ đồ phễu (Funnel Diagram):** Đầu vào là "Tệp khách hàng CASA lớn", qua các bước "Phân tích dữ liệu", "Bán chéo", "Số hóa", và đầu ra là "Tăng ROE", "Tăng NFI", "Gia tăng lòng trung thành".
+
+---
+
+### **Trang 8: Trọng tâm #2 - Phục hồi Thu nhập ngoài lãi (NFI)**
+
+*   **Tiêu đề:** **Xây dựng Cỗ máy Doanh thu Dịch vụ Bền vững**
+*   **Lý do:** Sự sụt giảm của NFI (-10.3%) cho thấy sự cần thiết phải giảm phụ thuộc vào các nguồn thu biến động (như bancassurance trong giai đoạn thị 
+trường khó khăn) và tăng cường các nguồn thu phí ổn định từ hoạt động giao dịch.
+*   **Hành động đề xuất:**
+    1.  **Phí giao dịch và Quản lý tài khoản:** Rà soát và tối ưu hóa biểu phí cho các dịch vụ thanh toán, chuyển tiền quốc tế, quản lý dòng tiền cho doanh nghiệp.
+    2.  **Tái cấu trúc Bancassurance:** Hợp tác với các đối tác bảo hiểm để ra mắt sản phẩm mới, linh hoạt hơn, đồng thời tăng cường đào tạo và công cụ số cho đội ngũ bán hàng.
+    3.  **Ngân hàng đầu tư (IB):** Tận dụng vị thế trên thị trường vốn để đẩy mạnh các thương vụ tư vấn phát hành, M&A cho các tập đoàn lớn.
+*   **Đề xuất trực quan:**
+    *   **Biểu đồ bánh (Donut chart):** Thể hiện cơ cấu NFI hiện tại (ví dụ: Phí dịch vụ, Bancassurance, IB, FX...). Bên cạnh là một biểu đồ bánh mục tiêu cho năm 2026 với tỷ trọng các mảng bền vững (phí dịch vụ) được tăng lên.
+
+---
+
+### **Trang 9: Trọng tâm #3 - Tối ưu hóa Danh mục Tín dụng**
+
+*   **Tiêu đề:** **Tăng trưởng Tín dụng Thông minh vì Hiệu quả Vốn**
+*   **Lý do:** Tăng trưởng tín dụng năm 2025 (10.6% YTD) là hợp lý nhưng cần tập trung hơn vào các lĩnh vực có NIM cao hơn để cải thiện lợi nhuận chung. 
+Tỷ lệ LDR (82.4%) đang ở mức cao, đòi hỏi việc sử dụng nguồn vốn cho vay phải hiệu quả hơn.
+*   **Hành động đề xuất:**
+    1.  **Đẩy mạnh cho vay bán lẻ có chọn lọc:** Tập trung vào các sản phẩm có lợi suất cao và rủi ro được kiểm soát tốt như cho vay mua ô tô, thẻ tín dụng, và cho vay kinh doanh đối với khách hàng ưu tiên.
+    2.  **Ứng dụng Scoring dựa trên AI/ML:** Sử dụng phân tích dữ liệu nâng cao để phê duyệt tín dụng nhanh hơn và chính xác hơn, giảm chi phí vận hành và rủi ro.
+    3.  **Tài trợ chuỗi cung ứng (Supply Chain Financing):** Phát triển các giải pháp tài trợ cho hệ sinh thái của các khách hàng doanh nghiệp lớn, tận dụng lợi thế về CASA doanh nghiệp.
+*   **Đề xuất trực quan:**
+    *   **Ma trận Rủi ro - Lợi suất (Risk-Return Matrix):** Một ma trận 2x2, định vị các sản phẩm cho vay hiện tại. Mũi tên chiến lược chỉ hướng dịch chuyển danh mục về phía ô "Lợi suất cao - Rủi ro thấp/trung bình" trong năm 2026.
+
+---
+
+### **Trang 10: Kết luận**
+
+*   **Tiêu đề:** **Tầm nhìn 2026: Dẫn dắt Kỷ nguyên Tài chính Số hiệu quả**
+*   **Nội dung:** Năm 2025 đã khẳng định sức mạnh nền tảng và khả năng quản trị của Techcombank. Những thách thức về lợi nhuận là tạm thời và có thể khắc phục. Bằng cách thực thi quyết liệt 3 trụ cột chiến lược: **Khai thác CASA, Tái tạo NFI, và Tối ưu hóa Tín dụng**, Techcombank hoàn toàn có thể tái tạo 
+đà tăng trưởng lợi nhuận hai con số, tiếp tục củng cố vị thế ngân hàng tư nhân hàng đầu Việt Nam và mang lại giá trị vượt trội cho cổ đông.
+*   **Đề xuất trực quan:** Một hình ảnh mạnh mẽ, mang tính biểu tượng về tương lai (ví dụ: một mũi tên đỏ lao vút lên trên một nền tảng kỹ thuật số). Kèm theo đó là khẩu hiệu: **"Dữ liệu kể chuyện, chiến lược thành hình."**
+-----------------------------------
+
+Generating content for agent: agents/chuyen_gia_chien_luoc_kinh_doanh.yaml
+--- Content from Chuyên gia Chiến lược Kinh doanh ---
+Kính thưa Hội đồng Quản trị,
+
+Với vai trò Chuyên gia Chiến lược Kinh doanh, tôi xin trình bày Báo cáo "Techcombank 2025 Insights". Báo cáo này không chỉ tóm lược kết quả năm qua mà còn là một bản luận đề chiến lược, sử dụng dữ liệu để vạch ra lộ trình kiến tạo tương lai, củng cố vị thế dẫn đầu của Techcombank.
+
+**Khẩu hiệu của chúng ta:** "Biến dữ liệu thành quyết sách, kiến tạo tương lai."
+
+---
+
+### **BÁO CÁO HỘI ĐỒNG QUẢN TRỊ - TECHCOMBANK 2025 INSIGHTS**
+**Chủ đề:** Vững Vàng Vượt Sóng – Tái Tạo Động Lực Tăng Trưởng
+
+---
+
+### **PHẦN 1: TỔNG QUAN ĐIỀU HÀNH & THÔNG ĐIỆP CHỦ ĐẠO**
+
+Năm 2025 là một năm đầy thử thách, ghi nhận sự kiên định và sức mạnh nền tảng của Techcombank. Chúng ta đã thành công trong việc mở rộng quy mô, củng cố 
+niềm tin khách hàng và quản trị rủi ro một cách xuất sắc. Tuy nhiên, dữ liệu cũng cho thấy những "cơn gió ngược" đối với hiệu quả sinh lời, đòi hỏi chúng ta phải có những quyết sách chiến lược sắc bén cho năm 2026.
+
+**Ba câu chuyện cốt lõi từ dữ liệu năm 2025:**
+
+1.  **Nền Tảng Vững Chắc:** Tăng trưởng tài sản và huy động vốn ấn tượng, đặc biệt là tỷ lệ CASA tiếp tục là "con hào kinh tế" không thể lay chuyển.     
+2.  **Thách Thức Lợi Nhuận:** Biên lãi ròng (NIM) bị thu hẹp và sụt giảm thu nhập ngoài lãi đã tạo áp lực trực tiếp lên lợi nhuận trước thuế.
+3.  **Quản Trị Rủi Ro Vượt Trội:** Chất lượng tài sản được kiểm soát chặt chẽ, chi phí tín dụng giảm mạnh, tạo "bộ đệm" an toàn vững chắc cho ngân hàng. 
+
+---
+
+### **PHẦN 2: PHÂN TÍCH HOẠT ĐỘNG 2025 - CÂU CHUYỆN TỪ NHỮNG CON SỐ**
+
+*(Ghi chú: Mỗi insight dưới đây nên được trình bày trên một slide riêng biệt với visual chủ đạo.)*
+
+#### **INSIGHT 1: NỀN TẢNG VỮNG CHẮC - ĐỘNG LỰC TĂNG TRƯỞNG BỀN VỮNG**
+
+Năm 2025 chứng kiến sức mạnh nội tại của Techcombank được củng cố mạnh mẽ, tạo đà cho các bước tiến trong tương lai.
+
+*   **Tăng trưởng Quy mô Vượt trội:** Tổng tài sản tăng trưởng **14.2%**, vượt mốc 1 triệu tỷ đồng. Quan trọng hơn, tiền gửi khách hàng tăng trưởng đến **18.8%**, cho thấy niềm tin vững chắc của thị trường vào thương hiệu Techcombank.
+*   **CASA - Lợi thế Cạnh tranh Chiến lược:** Tỷ lệ CASA đạt **41.1%**, tăng **199 điểm cơ bản** so với cùng kỳ. Đây không chỉ là một con số, đây là minh chứng cho sự thành công của chiến lược "zero-fee" và nền tảng số hóa vượt trội, giúp chúng ta có được nguồn vốn giá rẻ ổn định, một lợi thế mà không nhiều đối thủ có được.
+
+> **Gợi ý Trực quan hóa:**
+> *   **Biểu đồ kết hợp (Column & Line Chart):** Trục chính thể hiện cột tăng trưởng Tổng tài sản và Tiền gửi (tỷ VNĐ). Trục phụ thể hiện đường (line) tăng trưởng của tỷ lệ CASA (%).
+> *   **Thông điệp trên slide:** "Quy mô mở rộng, nền tảng CASA vững như bàn thạch."
+
+---
+
+#### **INSIGHT 2: THÁCH THỨC LỢI NHUẬN - ÁP LỰC KÉP TỪ NIM VÀ THU NHẬP NGOÀI LÃI**
+
+Dù nền tảng vững, các động cơ chính tạo ra lợi nhuận đã có dấu hiệu chậm lại, đòi hỏi sự chú ý đặc biệt của Ban Lãnh đạo.
+
+*   **Biên lãi ròng (NIM) thu hẹp:** NIM (LTM) giảm **55 điểm cơ bản**, xuống còn **3.7%**. Nguyên nhân đến từ việc chi phí vốn (Cost of Funds) tăng nhẹ 
+(+19 bps) trong khi môi trường cạnh tranh khiến lãi suất cho vay khó tăng tương ứng. Đây là điểm nghẽn lớn nhất của lợi nhuận năm 2025.
+*   **Sụt giảm Thu nhập ngoài lãi (NFI):** NFI giảm **10.3%** so với cùng kỳ. Sự sụt giảm này cho thấy sự phụ thuộc vào các mảng kinh doanh truyền thống 
+(như bancassurance, phí giao dịch) đang đối mặt với bão hòa hoặc cạnh tranh gay gắt.
+*   **Hệ quả:** ROE (LTM) giảm từ 16.5% xuống **14.5%**. Dù vẫn ở mức tốt so với ngành, sự sụt giảm này là tín hiệu cần hành động quyết liệt để tái tạo tăng trưởng lợi nhuận.
+
+> **Gợi ý Trực quan hóa:**
+> *   **Biểu đồ Thác nước (Waterfall Chart):** Bắt đầu từ Lợi nhuận trước thuế 2024. Các cột đi xuống thể hiện tác động tiêu cực từ sụt giảm NII (do NIM 
+giảm) và NFI. Cột đi lên thể hiện tác động tích cực từ việc tiết giảm chi phí hoạt động. Cột cuối cùng là Lợi nhuận trước thuế 2025.
+> *   **Thông điệp trên slide:** "Xác định điểm nghẽn: NIM và NFI là hai thách thức cốt lõi cần giải quyết."
+
+---
+
+#### **INSIGHT 3: QUẢN TRỊ RỦI RO HIỆU QUẢ - "BỘ ĐỆM" AN TOÀN TRONG BỐI CẢNH MỚI**
+
+Trong bối cảnh kinh tế còn nhiều biến động, Techcombank đã chứng tỏ năng lực quản trị rủi ro ở mức xuất sắc.
+
+*   **Chất lượng tài sản được kiểm soát:** Tỷ lệ nợ xấu (NPL) được giữ ổn định ở mức **1.32%**, một con số rất tích cực trong bối cảnh tăng trưởng tín dụng.
+*   **Chi phí Tín dụng giảm mạnh:** Chi phí tín dụng (Credit Costs LTM) giảm một nửa, từ 1.1% xuống chỉ còn **0.6%**. Điều này cho thấy chất lượng các khoản vay mới rất tốt và khả năng thu hồi nợ hiệu quả.
+*   **An toàn Vốn ở mức cao:** Tỷ lệ an toàn vốn (CAR) theo Basel II đạt **15.0%**, cao hơn đáng kể so với yêu cầu của NHNN, tạo ra một "bộ đệm" vốn vững chắc để đối phó với các cú sốc và sẵn sàng cho các cơ hội tăng trưởng trong tương lai.
+
+> **Gợi ý Trực quan hóa:**
+> *   **Infographic dạng Dashboard:** Hiển thị 3 chỉ số chính: NPL (với biểu tượng lá chắn), Credit Costs (với mũi tên đi xuống màu xanh), và CAR (với biểu đồ cột đo lường so với mức quy định của NHNN).
+> *   **Thông điệp trên slide:** "An toàn là trên hết. Nền tảng rủi ro vững chắc cho phép chúng ta tăng tốc."
+
+---
+
+### **PHẦN 3: TRIỂN VỌNG 2026 - RỦI RO & CƠ HỘI NỔI BẬT**
+
+**RỦI RO CẦN QUẢN TRỊ:**
+
+1.  **Cạnh tranh Lãi suất:** Cuộc chiến giành thị phần, đặc biệt trong mảng cho vay bán lẻ, sẽ tiếp tục gây áp lực lên NIM.
+2.  **Bão hòa các Dịch vụ truyền thống:** Các nguồn thu ngoài lãi như bancassurance có thể tiếp tục tăng trưởng chậm lại.
+3.  **Rủi ro An ninh mạng & Công nghệ:** Khi hệ sinh thái số càng mở rộng, rủi ro về an ninh mạng và sự ổn định của hệ thống càng trở nên tối quan trọng.4.  **Bất định Kinh tế Vĩ mô:** Lạm phát, tỷ giá và các chính sách điều hành vĩ mô có thể ảnh hưởng đến nhu cầu tín dụng và sức khỏe của doanh nghiệp.   
+
+**CƠ HỘI CẦN NẮM BẮT:**
+
+1.  **Bùng nổ Phân khúc Khách hàng Cao cấp (Affluent):** Tầng lớp trung lưu và giàu có tại Việt Nam đang tăng nhanh, tạo ra nhu cầu lớn về các dịch vụ quản lý tài sản và đầu tư chuyên biệt.
+2.  **Hệ sinh thái Số Toàn diện:** Cơ hội vượt ra ngoài các giao dịch ngân hàng truyền thống, tích hợp đầu tư, bảo hiểm, chi tiêu, và quản lý tài chính cá nhân vào một "siêu ứng dụng".
+3.  **Tài chính Xanh (Green Finance) & ESG:** Trở thành ngân hàng tiên phong trong việc cung cấp các giải pháp tài chính cho các dự án bền vững, không chỉ mang lại lợi ích cho xã hội mà còn thu hút các nhà đầu tư và nguồn vốn quốc tế.
+
+---
+
+### **PHẦN 4: ĐỀ XUẤT CHIẾN LƯỢC TRỌNG TÂM 2026: "TÁI TẠO TĂNG TRƯỞNG LỢI NHUẬN"**
+
+Để giải quyết các thách thức và nắm bắt cơ hội, tôi đề xuất 3 lĩnh vực chiến lược trọng tâm cho năm 2026.
+
+#### **CHIẾN LƯỢC ƯU TIÊN 1: TỐI ƯU HÓA NIM & HIỆU SUẤT VỐN**
+
+1.  **Tóm tắt:**
+    Giải quyết trực diện bài toán NIM bằng cách tập trung vào các phân khúc cho vay có lợi suất cao hơn, đồng thời khai thác sâu hơn nữa lợi thế CASA để 
+giảm chi phí vốn. Mục tiêu: cải thiện NIM thêm 15-20 điểm cơ bản vào cuối năm 2026.
+
+2.  **Các sáng kiến chính:**
+    *   **Phân tích dữ liệu lớn (Big Data) để định giá động:** Áp dụng AI để phân tích hành vi khách hàng và định giá các gói vay/sản phẩm một cách linh 
+hoạt, tối ưu hóa lợi nhuận trên từng phân khúc.
+    *   **Đẩy mạnh cho vay Margin và các sản phẩm đầu tư:** Tập trung vào các sản phẩm có lợi suất cao, rủi ro được kiểm soát tốt, gắn liền với hệ sinh thái quản lý tài sản.
+    *   **Chương trình "CASA-Plus":** Ra mắt các gói giải pháp tài chính toàn diện (thanh toán, tiết kiệm, đầu tư) để giữ chân và gia tăng số dư CASA từ 
+khách hàng doanh nghiệp và khách hàng cá nhân cao cấp.
+
+3.  **KPI đo lường:**
+    *   Biên lãi ròng (NIM)
+    *   Tỷ suất sinh lời trên vốn chủ sở hữu (ROE)
+    *   Chi phí vốn (Cost of Funds)
+
+#### **CHIẾN LƯỢC ƯU TIÊN 2: ĐỘT PHÁ HỆ SINH THÁI SỐ & THU NHẬP NGOÀI LÃI**
+
+1.  **Tóm tắt:**
+    Biến ứng dụng Techcombank Mobile từ một công cụ giao dịch thành một nền tảng quản lý tài sản và phong cách sống. Đa dạng hóa nguồn thu ngoài lãi, giảm phụ thuộc vào các mảng truyền thống. Mục tiêu: tăng trưởng NFI 15% và nâng tỷ trọng NFI/TOI lên mức 25%.
+
+2.  **Các sáng kiến chính:**
+    *   **Tích hợp nền tảng Đầu tư (TCBS):** Cho phép khách hàng giao dịch chứng khoán, trái phiếu, chứng chỉ quỹ ngay trên ứng dụng ngân hàng một cách liền mạch.
+    *   **Ra mắt "Digital Insurance Marketplace":** Hợp tác với nhiều công ty bảo hiểm để cung cấp các sản phẩm bảo hiểm số (nhân thọ, phi nhân thọ) với 
+quy trình mua bán 100% online.
+    *   **Phát triển các dịch vụ thu phí mới:** Dịch vụ báo cáo và phân tích chi tiêu thông minh cho cá nhân, dịch vụ quản lý dòng tiền tự động cho SME. 
+
+3.  **KPI đo lường:**
+    *   Tỷ trọng Thu nhập ngoài lãi trên Tổng thu nhập (NFI/TOI)
+    *   Số lượng sản phẩm đầu tư/bảo hiểm bán qua kênh số
+    *   Tỷ lệ người dùng hoạt động hàng tháng (MAU) trên ứng dụng
+
+#### **CHIẾN LƯỢC ƯU TIÊN 3: DẪN ĐẦU PHÂN KHÚC KHÁCH HÀNG CAO CẤP (AFFLUENT BANKING)**
+
+1.  **Tóm tắt:**
+    Xây dựng một hệ sinh thái dịch vụ đặc quyền và giải pháp tài chính tinh vi, biến Techcombank thành lựa chọn số một của giới thượng lưu Việt Nam. Phân khúc này không chỉ mang lại doanh thu cao mà còn củng cố hình ảnh thương hiệu đẳng cấp.
+
+2.  **Các sáng kiến chính:**
+    *   **Nền tảng Quản lý Gia sản Toàn diện:** Cung cấp dịch vụ tư vấn đầu tư chuyên sâu, hoạch định thừa kế, và các giải pháp đầu tư quốc tế.
+    *   **Hệ sinh thái Đối tác Đẳng cấp:** Hợp tác độc quyền với các thương hiệu xa xỉ (bất động sản, du lịch, xe hơi, y tế) để tạo ra các đặc quyền vượt trội cho khách hàng Priority.
+    *   **Số hóa trải nghiệm Priority:** Xây dựng một phiên bản ứng dụng riêng hoặc một khu vực đặc quyền trên app với các công cụ phân tích danh mục đầu tư và kết nối trực tiếp với Giám đốc Quan hệ Khách hàng cá nhân.
+
+3.  **KPI đo lường:**
+    *   Tổng tài sản quản lý (AUM) của phân khúc khách hàng cao cấp
+    *   Doanh thu trên mỗi khách hàng (Revenue per Customer)
+    *   Chỉ số hài lòng và giữ chân khách hàng (CSAT & Retention Rate)
+
+---
+
+### **PHẦN 5: LỜI KẾT - BIẾN DỮ LIỆU THÀNH QUYẾT SÁCH**
+
+Năm 2025 đã cho chúng ta thấy rõ đâu là sức mạnh nền tảng và đâu là những thách thức cần vượt qua. Các dữ liệu không chỉ là những con số của quá khứ, chúng là những chỉ dẫn quý báu cho tương lai.
+
+Với sự đồng lòng của Hội đồng Quản trị và Ban điều hành, cùng ba chiến lược trọng tâm được đề xuất, tôi tin tưởng rằng Techcombank sẽ không chỉ vượt qua 
+thách thức mà còn **tái tạo lại động lực tăng trưởng lợi nhuận**, tiếp tục hành trình trở thành ngân hàng số một tại Việt Nam, mang lại giá trị vượt trội cho khách hàng, nhân viên và cổ đông.
+
+Xin trân trọng cảm ơn.
+-----------------------------------
+
+Generating content for agent: agents/chuyen_gia_truc_quan_hoa_du_lieu.yaml
+--- Content from Chuyên gia Trực quan hóa Dữ liệu ---
+Chắc chắn rồi. Với vai trò là Chuyên gia Trực quan hóa Dữ liệu cho dự án **"Báo cáo Hội Đồng Quản trị - Techcombank 2025 Insights"**, tôi xin bắt đầu.   
+
+**Khẩu hiệu:** "Mỗi con số, một câu chuyện."
+
+---
+
+Kính gửi Hội đồng Quản trị,
+
+Sau khi phân tích sâu dữ liệu tài chính 6 tháng đầu năm 2025 và so sánh với cùng kỳ 2024, tôi đã xác định được những câu chuyện cốt lõi phản ánh hiệu quả hoạt động, các thách thức và những nền tảng vững chắc của Techcombank.
+
+Dưới đây là các đề xuất trực quan hóa dữ liệu được thiết kế để kể những câu chuyện đó một cách súc tích, tác động mạnh mẽ và mang tính chiến lược, tối ưu cho cả trình chiếu tại hội trường và nghiên cứu trong tài liệu booklet.
+
+### **Phần 1: Những Câu Chuyện Chính từ Dữ liệu 2025**
+
+Năm 2025 của Techcombank được định hình bởi ba câu chuyện chính:
+
+1.  **Nghịch lý Tăng trưởng (The Growth Paradox):** Quy mô tài sản và huy động vốn tăng trưởng ấn tượng, nhưng lợi nhuận lại chịu áp lực. Đây là câu chuyện về hiệu suất và sự cần thiết phải tối ưu hóa.
+2.  **Pháo đài CASA (The CASA Fortress):** Tỷ lệ CASA tiếp tục là điểm sáng và là lợi thế cạnh tranh cốt lõi, minh chứng cho sức mạnh của nền tảng ngân hàng số và sự gắn kết của khách hàng.
+3.  **Lá chắn Rủi ro (The Risk Shield):** Chất lượng tài sản được kiểm soát chặt chẽ, cho thấy sự thận trọng và hiệu quả trong quản trị rủi ro ngay cả trong bối cảnh kinh tế nhiều biến động.
+
+Những câu chuyện này sẽ được thể hiện qua các thiết kế trực quan dưới đây.
+
+---
+
+### **Phần 2: Đề xuất Trực quan hóa Dữ liệu Chi tiết**
+
+Sau đây là các ý tưởng trực quan hóa cụ thể, được trình bày theo định dạng đã yêu cầu.
+
+```yaml
+- visual_idea:
+    title: 'Câu chuyện Lợi nhuận 2025: Tăng trưởng Quy mô đối mặt Thử thách Hiệu suất'
+    type: 'Biểu đồ Thác (Waterfall Chart)'
+    objective: 'Phân rã các yếu tố chính tác động đến sự thay đổi của Lợi nhuận Trước thuế (PBT) giữa 6T/2024 và 6T/2025. Giúp HĐQT thấy rõ đâu là động lực tăng trưởng và đâu là gánh nặng.'
+    story: 'Mặc dù Ngân hàng đã xuất sắc trong việc tối ưu chi phí hoạt động và giảm chi phí tín dụng, lợi nhuận vẫn giảm nhẹ. Nguyên nhân chính đến từ sự sụt giảm của cả Thu nhập Lãi thuần (NIM bị thu hẹp) và Thu nhập ngoài Lãi, cho thấy áp lực kép lên các nguồn doanh thu cốt lõi.'
+    data_points:
+      - 'PBT 6T/2024 (15,628 tỷ)'
+      - 'Sụt giảm Thu nhập Lãi thuần (-535 tỷ)'
+      - 'Sụt giảm Thu nhập ngoài Lãi (-792 tỷ)'
+      - 'Giảm Chi phí Hoạt động (+82 tỷ)'
+      - 'Giảm Chi phí Tín dụng (đóng góp tích cực - ước tính dựa trên giảm Credit Costs)'
+      - 'PBT 6T/2025 (15,135 tỷ)'
+    style_notes: 'Sử dụng màu xanh lá cây đặc trưng của Techcombank cho các yếu tố tăng trưởng (giảm chi phí) và màu cam/đỏ nhạt cho các yếu tố sụt giảm 
+(giảm thu nhập). Chú thích rõ ràng, súc tích cho từng cột. Thiết kế phẳng, hiện đại, font chữ lớn dễ đọc từ xa.'
+
+- visual_idea:
+    title: 'CASA - Nền tảng Vững chắc trong Môi trường Lãi suất Biến động'
+    type: 'Biểu đồ Kết hợp (Combination Chart: Line + Area)'
+    objective: 'Minh họa sức mạnh bền bỉ của CASA, vừa cho thấy sự tăng trưởng về tỷ lệ (hiệu quả) vừa thể hiện sự gia tăng về quy mô tiền gửi (tầm vóc).'
+    story: 'Tỷ lệ CASA đã tăng lên mức kỷ lục 41.1%, một thành tựu nổi bật cho thấy chiến lược "zero-fee" và dẫn đầu về công nghệ tiếp tục thu hút và giữ chân dòng tiền chi phí thấp. Đây chính là bộ đệm quan trọng giúp giảm thiểu tác động tiêu cực từ việc chi phí vốn (Cost of Funds) đang tăng lên.'       
+    data_points:
+      - 'Trục trái (Line Chart): Tỷ lệ CASA qua các quý (39.2% -> 41.1%)'
+      - 'Trục phải (Area Chart): Tổng tiền gửi của khách hàng qua các quý (495,977 tỷ -> 589,078 tỷ)'
+      - 'Chú thích (Annotation): Đánh dấu mốc 41.1% là "Đỉnh cao mới" và điểm tăng trưởng +199 bps so với cùng kỳ.'
+    style_notes: 'Đường line CASA màu đỏ đặc trưng của Techcombank, nổi bật trên nền biểu đồ vùng (area) màu xám nhạt thể hiện tổng tiền gửi. Nhấn mạnh sự tương quan: quy mô tiền gửi tăng nhưng tỷ trọng tiền gửi không kỳ hạn còn tăng nhanh hơn. Giao diện sạch sẽ, tập trung vào hai đường xu hướng chính.'  
+
+- visual_idea:
+    title: 'Bảng điều khiển Quản trị Rủi ro (Risk Management Dashboard)'
+    type: 'Infographic với các Đồng hồ đo (Gauges/KPI Dials)'
+    objective: 'Cung cấp một cái nhìn tổng quan, nhanh chóng về sức khỏe của danh mục tài sản và hiệu quả quản trị rủi ro của Ngân hàng.'
+    story: 'Trong bối cảnh toàn ngành đối mặt với nợ xấu gia tăng, Techcombank đã duy trì được sự ổn định đáng nể. Tỷ lệ NPL được kiểm soát chặt chẽ, chi phí tín dụng giảm mạnh và bộ đệm dự phòng vững chắc. Đây là minh chứng cho một "hệ thống miễn dịch" tài chính khỏe mạnh.'
+    data_points:
+      - 'Đồng hồ 1: Tỷ lệ Nợ xấu (NPL) - Kim chỉ tại 1.32%, vùng "An toàn" (màu xanh).'
+      - 'Đồng hồ 2: Chi phí Tín dụng (Credit Costs) - Kim chỉ tại 0.6%, vùng "Tối ưu" (màu xanh), kèm ghi chú "-50 bps so với 2024".'
+      - 'Đồng hồ 3: Tỷ lệ Bao phủ Nợ xấu (Coverage Ratio) - Kim chỉ tại 106.4%, vùng "Thận trọng" (màu xanh dương), kèm ghi chú "+534 bps so với 2024".' 
+    style_notes: 'Thiết kế theo dạng bảng điều khiển xe hơi hoặc phi công, mang lại cảm giác kiểm soát và chuyên nghiệp. Sử dụng các icon đơn giản (lá chắn, biểu đồ xu hướng giảm) và mã màu trực quan (Xanh lá = Tốt, Vàng = Cảnh báo, Đỏ = Báo động). Các con số phải thật lớn và rõ ràng.'
+
+- visual_idea:
+    title: 'Hiệu suất Sinh lời: Thước đo Sức khỏe Tài chính'
+    type: 'Biểu đồ Cột kép (Dual-axis Bar Chart)'
+    objective: 'So sánh trực diện các chỉ số sinh lời cốt lõi (ROA, ROE) giữa 2024 và 2025, đồng thời giải thích nguyên nhân gốc rễ qua chỉ số NIM.'     
+    story: 'Các chỉ số sinh lời trên tài sản (ROA) và vốn chủ sở hữu (ROE) đều suy giảm, phản ánh trực tiếp áp lực từ việc Biên lãi ròng (NIM) bị thu hẹp. Câu chuyện ở đây là cần tìm ra các động lực mới để tái tạo khả năng sinh lời.'
+    data_points:
+      - 'Cặp cột 1: ROA (2.6% năm 2024 vs 2.2% năm 2025)'
+      - 'Cặp cột 2: ROE (16.5% năm 2024 vs 14.5% năm 2025)'
+      - 'Cặp cột 3: NIM (4.3% năm 2024 vs 3.7% năm 2025)'
+    style_notes: 'Sử dụng màu sắc tương phản để phân biệt giữa hai năm (ví dụ: 2024 màu xám, 2025 màu đỏ Techcombank). Thêm một dòng text lớn phía trên biểu đồ với insight chính: "Biên lãi ròng (NIM) thu hẹp là nguyên nhân chính ảnh hưởng đến hiệu suất sinh lời".'
+```
+
+---
+
+### **Phần 3: Rủi ro, Cơ hội & Khuyến nghị Chiến lược 2026**
+
+Từ các phân tích trên, chúng ta có thể nhận diện các rủi ro, cơ hội và đưa ra các khuyến nghị hành động cho năm 2026.
+
+#### **Rủi ro & Cơ hội mới nổi**
+
+*   **Rủi ro:**
+    1.  **Sức ép NIM kéo dài:** Môi trường cạnh tranh về lãi suất và chi phí vốn có thể tiếp tục gây áp lực lên biên lợi nhuận.
+    2.  **Phụ thuộc vào Thu nhập Lãi:** Sự sụt giảm của thu nhập ngoài lãi cho thấy sự mong manh của các nguồn thu phí trong bối cảnh thị trường bất động sản và chứng khoán còn biến động.
+*   **Cơ hội:**
+    1.  **Hệ sinh thái Khách hàng:** Lượng khách hàng lớn và tỷ lệ CASA cao là mỏ vàng dữ liệu để bán chéo và cung cấp các sản phẩm tài chính cá nhân hóa.
+    2.  **Dẫn đầu về Công nghệ:** Nền tảng công nghệ vững chắc cho phép Techcombank tiên phong trong các giải pháp thanh toán, quản lý tài sản số và các 
+dịch vụ tạo ra nguồn thu phí mới.
+
+#### **Đề xuất Trực quan hóa cho Khuyến nghị Chiến lược 2026**
+
+```yaml
+- visual_idea:
+    title: 'Định hướng Chiến lược 2026: Ba Trụ cột Tái tạo Tăng trưởng'
+    type: 'Sơ đồ Infographic (3-Pillar Diagram)'
+    objective: 'Trình bày một cách rõ ràng, trực quan và dễ nhớ 3 lĩnh vực chiến lược mà Techcombank cần tập trung để vượt qua thách thức và nắm bắt cơ hội trong năm 2026.'
+    story: 'Để giải quyết bài toán hiệu suất, Techcombank cần chuyển trọng tâm từ tăng trưởng quy mô đơn thuần sang tăng trưởng thông minh và bền vững. Chiến lược 2026 sẽ xoay quanh ba trụ cột: Tối ưu hóa Nguồn thu Lãi, Đột phá Doanh thu Dịch vụ, và Khai thác sâu Hệ sinh thái Dữ liệu.'
+    data_points:
+      - 'Trụ cột 1: Tối ưu hóa NIM (Tín dụng chọn lọc, Tăng cường CASA)'
+        - 'Icon: Biểu tượng Lợi nhuận (% sign)'
+        - 'Key actions: Tập trung vào cho vay bán lẻ & SME biên lợi nhuận cao. Đẩy mạnh các chương trình tích hợp để giữ vững và gia tăng CASA.'
+      - 'Trụ cột 2: Đột phá Doanh thu Dịch vụ (Wealth Management & Transaction Banking)'
+        - 'Icon: Biểu tượng viên kim cương'
+        - 'Key actions: Phát triển mạnh mảng tư vấn đầu tư và quản lý gia sản cho phân khúc khách hàng cao cấp. Tăng phí giao dịch từ hệ sinh thái thanh 
+toán số.'
+      - 'Trụ cột 3: Khai thác Hệ sinh thái Dữ liệu (Data-driven Insights)'
+        - 'Icon: Biểu tượng bộ não & kết nối'
+        - 'Key actions: Sử dụng AI/ML để phân tích hành vi khách hàng. Tung ra các sản phẩm "may đo" và chiến dịch marketing siêu cá nhân hóa để tăng tỷ 
+lệ chuyển đổi và lòng trung thành.'
+    style_notes: 'Thiết kế dạng 3 cột vững chãi, mỗi cột có icon riêng, tiêu đề lớn và 2-3 gạch đầu dòng mô tả hành động chính. Sử dụng màu sắc thương hiệu của Techcombank để tạo sự đồng nhất. Sơ đồ cần cân bằng giữa hình ảnh và văn bản, đảm bảo thông điệp cốt lõi được truyền tải trong 5 giây.'
+```
+
+Các đề xuất trên được xây dựng để đảm bảo mỗi trang trong booklet không chỉ trình bày dữ liệu mà còn kể một câu chuyện, dẫn dắt HĐQT từ việc hiểu rõ thực trạng đến việc ra quyết định chiến lược cho tương lai.
+
+Tôi sẵn sàng thảo luận chi tiết hơn và bắt đầu triển khai các thiết kế này.
+-----------------------------------
+
+Generating content for agent: agents/nguoi_viet_noi_dung_copywriter.yaml
+--- Content from Người viết Nội dung / Copywriter ---
+Tuyệt vời. Tôi đã sẵn sàng. Với vai trò là Copywriter chiến lược cho Hội đồng Quản trị Techcombank, tôi sẽ biến những con số này thành một câu chuyện mạch lạc, sắc bén và mang tính định hướng.
+
+Khẩu hiệu của tôi: **"Dữ liệu kể chuyện, chiến lược thành hình."**
+
+Dưới đây là nội dung chi tiết cho booklet **"Báo cáo Hội Đồng Quản trị-Techcombank 2025 Insights"**, được cấu trúc để sẵn sàng chuyển giao cho đội ngũ thiết kế.
+
+---
+
+### **BOOKLET CONTENT: TECHCOMBANK 2025 INSIGHTS**
+
+---
+
+### **TRANG BÌA (COVER PAGE)**
+
+*   **Tiêu đề chính:** **TECHCOMBANK 2025 INSIGHTS**
+*   **Tiêu đề phụ:** Dữ Liệu Kể Chuyện, Chiến Lược Thành Hình
+*   **Dòng ghi chú:** Báo cáo Chiến lược trình Hội đồng Quản trị | Tháng 1, 2026
+
+---
+
+### **LỜI MỞ ĐẦU (FOREWORD)**
+
+*   **Tùy chọn tiêu đề:**
+    *   Vững Vàng Vượt Sóng, Kiến Tạo Tương Lai
+    *   Thông điệp từ Chủ tịch HĐQT: Dẫn dắt sự thay đổi
+*   **Nội dung:**
+
+Kính thưa Quý vị trong Hội đồng Quản trị,
+
+Năm 2025 là một chương đầy thử thách nhưng cũng khẳng định mạnh mẽ bản lĩnh và tầm vóc của Techcombank. Trong bối cảnh kinh tế vĩ mô biến động và áp lực 
+cạnh tranh gia tăng, chúng ta không chỉ duy trì đà tăng trưởng về quy mô mà còn củng cố vững chắc các nền tảng cốt lõi, tạo tiền đề cho một giai đoạn phát triển mới, hiệu quả và bền vững hơn.
+
+Báo cáo này không chỉ tổng kết những con số. Đây là câu chuyện về chiến lược, về khả năng thích ứng và về những quyết định then chốt đã định hình nên kết quả năm 2025. Quan trọng hơn, từ câu chuyện của dữ liệu, chúng ta sẽ phác thảo nên một lộ trình chiến lược rõ ràng cho năm 2026, tập trung vào việc **tối ưu hóa lợi nhuận** và **khai phá các động lực tăng trưởng mới.**
+
+Chúng tôi tin rằng, với nền tảng vững chắc và một định hướng chiến lược sắc bén, Techcombank sẽ tiếp tục hành trình dẫn đầu và kiến tạo giá trị vượt trội.
+
+Trân trọng,
+**[Tên Chủ tịch HĐQT]**
+
+---
+
+### **PHẦN 1: TỔNG QUAN TÀI CHÍNH 2025 – NHỮNG ĐIỂM NHẤN CHIẾN LƯỢC**
+
+*   **Key Message (Thông điệp chính cho cả phần):** "Năm 2025 ghi dấu ấn bằng sự tăng trưởng quy mô ấn tượng và năng lực quản trị rủi ro vượt trội, tuy nhiên cũng đặt ra bài toán cấp thiết về tối ưu hóa hiệu suất sinh lời."
+
+***
+
+#### **1.1. NỀN TẢNG VỮNG CHẮC: TĂNG TRƯỞNG QUY MÔ VÀ NIỀM TIN**
+
+*   **Tiêu đề:** Tăng Trưởng Vượt Bậc, Khẳng Định Vị Thế
+*   **Call-out (Trích dẫn nổi bật):**
+    > **+14.2%** Tổng tài sản, vượt mốc **1 triệu tỷ đồng**, minh chứng cho quy mô và tầm vóc hàng đầu.
+*   **Nội dung:**
+    Năm 2025, Techcombank tiếp tục mở rộng quy mô một cách mạnh mẽ. Tổng tài sản đạt **1,037,645 tỷ đồng**, tăng trưởng **14.2%** so với cùng kỳ năm 2024. Đáng chú ý, tiền gửi khách hàng tăng trưởng ấn tượng **18.8%**, đạt **589,078 tỷ đồng**. Điều này không chỉ phản ánh niềm tin vững chắc của khách hàng 
+mà còn củng cố năng lực thanh khoản và tạo nền tảng vốn dồi dào cho các hoạt động kinh doanh.
+*   **Chart Copy (Nội dung cho biểu đồ):**
+    *   **`chart_id`: `chart-01-asset-deposit-growth`**
+    *   **Loại biểu đồ gợi ý:** Biểu đồ cột đôi (Double Bar Chart) so sánh Tổng tài sản và Tiền gửi khách hàng giữa 2024 và 2025.
+    *   **Tiêu đề biểu đồ:** Tăng Trưởng Quy Mô Bền Vững (2024 vs 2025)
+    *   **Chú thích:** "Sự gia tăng mạnh mẽ của tiền gửi khách hàng (+18.8%) là động lực chính thúc đẩy tăng trưởng tổng tài sản, thể hiện sức mạnh thương hiệu và hiệu quả của các nền tảng số."
+
+***
+
+#### **1.2. LỢI THẾ CẠNH TRANH TUYỆT ĐỐI: DẪN ĐẦU VỀ CASA**
+
+*   **Tiêu đề:** CASA - "Dòng Vốn Vàng" Tiếp Tục Được Củng Cố
+*   **Call-out (Trích dẫn nổi bật):**
+    > **41.1%** - Tỷ lệ CASA cao nhất toàn ngành, tăng **199 điểm cơ bản** so với 2024, là vũ khí chiến lược trong việc tối ưu hóa chi phí vốn.
+*   **Nội dung:**
+    Techcombank một lần nữa khẳng định vị thế không đối thủ về CASA. Tỷ lệ tiền gửi không kỳ hạn đạt **41.1%** vào cuối Q2/2025, là thành quả trực tiếp từ chiến lược "Zero-fee" và hệ sinh thái số toàn diện, giúp thu hút và giữ chân dòng tiền giao dịch của khách hàng cá nhân và doanh nghiệp. Lợi thế này giúp Ngân hàng duy trì chi phí vốn (Cost of Funds) ở mức cạnh tranh, tạo ra một vùng đệm quan trọng trước các biến động lãi suất.
+*   **Chart Copy (Nội dung cho biểu đồ):**
+    *   **`chart_id`: `chart-02-casa-ratio`**
+    *   **Loại biểu đồ gợi ý:** Biểu đồ đường (Line Chart) thể hiện xu hướng tỷ lệ CASA qua các quý từ 2024 đến 2025, có một đường benchmark (trung bình 
+ngành - nếu có) để so sánh.
+    *   **Tiêu đề biểu đồ:** Quỹ Đạo Tăng Trưởng Tỷ Lệ CASA
+    *   **Chú thích:** "Chiến lược số hóa và hệ sinh thái khách hàng là động lực cốt lõi giúp CASA tăng trưởng bền vững, tạo lợi thế khác biệt."
+
+***
+
+#### **1.3. BỘ ĐỆM AN TOÀN: CHẤT LƯỢNG TÀI SẢN VÀ QUẢN TRỊ RỦI RO**
+
+*   **Tiêu đề:** Lá Chắn Vững Vàng Trước Biến Động
+*   **Call-out (Trích dẫn nổi bật):**
+    > **Chi phí tín dụng (Credit Cost) giảm 50 điểm cơ bản** xuống còn 0.6%, cho thấy hiệu quả vượt trội trong công tác thẩm định và thu hồi nợ.
+*   **Nội dung:**
+    Trong bối cảnh rủi ro tín dụng tiềm ẩn, Techcombank đã chứng tỏ năng lực quản trị rủi ro xuất sắc. Tỷ lệ nợ xấu (NPL) được kiểm soát ổn định ở mức **1.32%**, tương đương với năm trước. Tỷ lệ an toàn vốn (CAR) theo Basel II đạt **15.0%**, cao hơn đáng kể so với mức quy định, tạo ra một bộ đệm vốn vững 
+chắc. Đặc biệt, chi phí tín dụng giảm mạnh là một điểm sáng, phản ánh chất lượng danh mục cho vay và khả năng phòng ngừa rủi ro chủ động.
+*   **Chart Copy (Nội dung cho biểu đồ):**
+    *   **`chart_id`: `chart-03-risk-dashboard`**
+    *   **Loại biểu đồ gợi ý:** Một Infographic dạng "Dashboard" với 3 đồng hồ đo hoặc chỉ số chính: NPL (ổn định), CAR (cao), Credit Cost (giảm mạnh).  
+    *   **Tiêu đề biểu đồ:** Bảng Điều Khiển Rủi Ro 2025
+    *   **Chú thích:** "Các chỉ số then chốt đều cho thấy một trạng thái an toàn, lành mạnh, sẵn sàng cho các chu kỳ tăng trưởng mới."
+
+***
+
+#### **1.4. THÁCH THỨC HIỆU SUẤT: SỨC ÉP LÊN BIÊN LỢI NHUẬN**
+
+*   **Tiêu đề:** Tăng Trưởng Quy Mô Chưa Tương Xứng Với Lợi Nhuận
+*   **Call-out (Trích dẫn nổi bật):**
+    > **Biên lãi ròng (NIM) giảm 55 điểm cơ bản** và **ROE giảm còn 14.5%**, đặt ra yêu cầu cấp thiết về việc nâng cao hiệu suất sinh lời.
+*   **Nội dung:**
+    Đây là thách thức lớn nhất của năm 2025. Mặc dù quy mô tăng trưởng, lợi nhuận trước thuế gần như đi ngang (giảm nhẹ **3.2%** so với 6 tháng 2024). Nguyên nhân chính đến từ việc biên lãi ròng (NIM) bị thu hẹp, từ 4.3% xuống còn **3.7%**, trong bối cảnh chi phí vốn tăng nhẹ và cạnh tranh lãi suất cho vay gay gắt. Đồng thời, thu nhập ngoài lãi cũng sụt giảm **10.3%**. Kết quả là các chỉ số hiệu suất quan trọng như ROA và ROE đều giảm, đòi hỏi một sự thay đổi chiến lược trong năm 2026.
+*   **Chart Copy (Nội dung cho biểu đồ):**
+    *   **`chart_id`: `chart-04-profitability-squeeze`**
+    *   **Loại biểu đồ gợi ý:** Biểu đồ kết hợp cột và đường. Cột thể hiện Lợi nhuận trước thuế (đi ngang), đường thể hiện NIM và ROE (đi xuống).        
+    *   **Tiêu đề biểu đồ:** Sức Ép Lên Các Chỉ Số Sinh Lời
+    *   **Chú thích:** "Sự phân kỳ giữa tăng trưởng tài sản và hiệu suất sinh lời là bài toán chiến lược cần được giải quyết trong năm 2026."
+
+---
+
+### **PHẦN 2: RỦI RO & CƠ HỘI NỔI BẬT 2026**
+
+*   **Key Message:** "Nhận diện rõ ràng các thách thức từ môi trường vĩ mô và đối thủ cạnh tranh, đồng thời nắm bắt các cơ hội vàng từ chuyển đổi số và sự thay đổi trong hành vi khách hàng."
+*   **Visual Gợi ý:** Một slide chia hai cột rõ rệt: RỦI RO (màu cảnh báo) và CƠ HỘI (màu tăng trưởng).
+
+| RỦI RO (RISKS)                                                                                                                              | CƠ HỘI (OPPORTUNITIES)                                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Áp lực vĩ mô kéo dài:** Lãi suất có thể duy trì ở mức cao, ảnh hưởng đến chi phí vốn và nhu cầu tín dụng của nền kinh tế.                 | **1. Dẫn dắt làn sóng Quản lý Gia sản:** Tầng lớp trung lưu và giàu có tại Việt Nam tăng nhanh, tạo ra nhu cầu lớn cho các dịch vụ tư vấn đầu tư chuyên nghiệp. |
+| **2. Cạnh tranh từ Fintech & Big Tech:** Các đối thủ mới linh hoạt hơn trong việc cung cấp các giải pháp thanh toán và cho vay tiêu dùng số. | **2. Tối ưu hóa hệ sinh thái số:** Tận dụng dữ liệu lớn (Big Data) để cá nhân hóa sản phẩm, bán chéo và nâng cao trải nghiệm khách hàng một cách triệt để.       
+ |
+| **3. Rủi ro An ninh mạng:** Gia tăng các cuộc tấn công mạng tinh vi nhắm vào hệ thống tài chính, đòi hỏi đầu tư lớn vào bảo mật.                | **3. 
+Tiên phong về Tài chính Xanh (ESG):** Nhu cầu về tín dụng xanh và các sản phẩm tài chính bền vững đang trở thành xu hướng tất yếu, mở ra một thị trường mới. |
+
+---
+
+### **PHẦN 3: ĐỊNH HƯỚNG CHIẾN LƯỢC 2026 – BA TRỌNG TÂM ƯU TIÊN**
+
+*   **Tiêu đề:** Tái tạo Động lực, Tối ưu Hóa Giá trị
+*   **Key Message:** "Năm 2026 sẽ là năm của **'Tăng trưởng thông minh'**. Chúng ta sẽ chuyển trọng tâm từ mở rộng quy mô sang tối ưu hóa lợi nhuận trên 
+từng đồng vốn, thông qua ba trụ cột chiến lược."
+*   **Visual Gợi ý:** Infographic 3 cột hoặc 3 vòng tròn kết nối, mỗi cột/vòng tròn đại diện cho một trọng tâm.
+
+***
+
+#### **TRỌNG TÂM 1: PHỤC HỒI BIÊN LỢI NHUẬN (PROFITABILITY RESTORATION)**
+
+*   **Lý do (The Why):** Giải quyết trực diện thách thức sụt giảm NIM và ROE. Đây là ưu tiên số một để đảm bảo sức khỏe tài chính và giá trị cho cổ đông.*   **Hành động (The How):**
+    1.  **Tối ưu hóa danh mục tín dụng:** Chuyển dịch tỷ trọng sang các phân khúc có lợi suất cao hơn như cho vay bán lẻ, SME và các sản phẩm cho vay tiêu dùng trên nền tảng số.
+    2.  **Khai thác sâu lợi thế CASA:** Triển khai các gói giải pháp quản lý dòng tiền chuyên biệt cho khách hàng doanh nghiệp lớn để gia tăng hơn nữa nguồn vốn giá rẻ.
+*   **Visual Gợi ý:** Sơ đồ minh họa sự dịch chuyển danh mục tín dụng từ tỷ trọng thấp (năm 2025) sang tỷ trọng cao hơn cho mảng Bán lẻ & SME (mục tiêu 2026).
+
+***
+
+#### **TRỌNG TÂM 2: BỨT PHÁ THU NHẬP NGOÀI LÃI (NFI ACCELERATION)**
+
+*   **Lý do (The Why):** Giảm sự phụ thuộc vào thu nhập từ lãi, tạo nguồn thu bền vững và ổn định hơn, giải quyết vấn đề sụt giảm 10.3% của mảng này trong năm 2025.
+*   **Hành động (The How):**
+    1.  **Dẫn đầu mảng Quản lý Gia sản (Wealth Management):** Xây dựng nền tảng tư vấn đầu tư hợp nhất, cung cấp các sản phẩm trái phiếu, chứng chỉ quỹ và bảo hiểm một cách liền mạch cho phân khúc khách hàng ưu tiên (Priority).
+    2.  **Số hóa toàn diện Bancassurance và Dịch vụ Thẻ:** Đơn giản hóa quy trình bán bảo hiểm và phát hành thẻ tín dụng trên ứng dụng di động, tích hợp 
+ưu đãi sâu vào hệ sinh thái đối tác.
+*   **Visual Gợi ý:** Một biểu đồ hình tròn thể hiện cơ cấu TOI (Total Operating Income) mục tiêu cho năm 2026, với tỷ trọng của NFI (Thu nhập ngoài lãi) được tăng lên.
+
+***
+
+#### **TRỌNG TÂM 3: VẬN HÀNH TỐI ƯU BẰNG CÔNG NGHỆ (TECH-DRIVEN EFFICIENCY)**
+
+*   **Lý do (The Why):** Kiểm soát chi phí hoạt động (CIR đang có xu hướng tăng nhẹ) và nâng cao năng suất lao động trong bối cảnh quy mô ngày càng lớn. 
+*   **Hành động (The How):**
+    1.  **Tự động hóa quy trình (RPA):** Áp dụng robot và AI để tự động hóa các tác vụ lặp lại trong quy trình vận hành, thẩm định tín dụng và dịch vụ khách hàng.
+    2.  **Phân tích dữ liệu để ra quyết định:** Sử dụng phân tích dữ liệu nâng cao để tối ưu hóa mạng lưới chi nhánh, chiến dịch marketing và quản trị rủi ro.
+*   **Visual Gợi ý:** Một sơ đồ đơn giản thể hiện luồng công việc "Trước" (nhiều bước thủ công) và "Sau" (tối ưu hóa bằng RPA và AI).
+
+---
+
+### **LỜI KẾT (CONCLUSION)**
+
+*   **Tiêu đề:** Kiến tạo Giai đoạn Tăng trưởng Tiếp theo
+*   **Nội dung:**
+
+Năm 2025 đã chứng minh sức mạnh của một nền tảng vững chắc. Năm 2026 sẽ là năm chúng ta xây dựng một cấu trúc lợi nhuận hiệu quả và bền vững trên nền tảng đó.
+
+Bằng việc tập trung vào ba trọng tâm: **Phục hồi Biên lợi nhuận, Bứt phá Thu nhập ngoài lãi, và Vận hành Tối ưu,** Techcombank không chỉ vượt qua thách thức trước mắt mà còn định hình một quỹ đạo tăng trưởng vượt trội cho tương lai.
+
+Dữ liệu đã kể câu chuyện của năm 2025. Giờ là lúc chiến lược của chúng ta thành hình và dẫn lối cho năm 2026.
+-----------------------------------
+
+Generating content for agent: agents/giam_oc_my_thuat_thiet_ke_o_hoa.yaml
+--- Content from Giám đốc Mỹ thuật / Thiết kế đồ họa ---
+Tuyệt vời. Tôi đã sẵn sàng. Với vai trò là Giám đốc Mỹ thuật, tôi sẽ trình bày định hướng sáng tạo tổng thể cho dự án "Báo cáo Hội Đồng Quản trị - Techcombank 2025 Insights".
+
+**Khẩu hiệu của tôi:** "Biến số liệu khô khan thành câu chuyện thị giác."
+
+---
+
+Kính gửi Ban Lãnh đạo,
+
+Trước hết, tôi xin trình bày ý tưởng chủ đạo và định hướng thẩm mỹ cho báo cáo quan trọng này. Mục tiêu của chúng ta không chỉ là trình bày số liệu, mà là kể một câu chuyện có sức thuyết phục về hành trình của Techcombank trong năm 2025 và tầm nhìn cho năm 2026. Một câu chuyện về sự vững vàng, khả năng thích ứng và định hướng tương lai rõ ràng.
+
+### **1. Ý Tưởng Chủ Đạo & Định Hướng Phong Cách (Concept & Art Direction)**
+
+**Ý tưởng chủ đạo (Concept): "VƯỢT SÓNG DẪN LỐI" (Navigating the Waves, Leading the Way)**
+
+*   **"Vượt Sóng":** Hình ảnh này tượng trưng cho bối cảnh kinh tế vĩ mô nhiều biến động của năm 2025. Nó thể hiện sự chủ động, linh hoạt và bản lĩnh của Techcombank khi đối mặt với thử thách (áp lực lên NIM, ROE). Chúng ta không bị động, chúng ta "vượt" qua nó.
+*   **"Dẫn Lối":** Khẳng định vị thế tiên phong của Techcombank, không chỉ về quy mô (tổng tài sản) mà còn về chất lượng (CASA, quản trị rủi ro). Đây là 
+ngọn hải đăng, là tầm nhìn chiến lược, là con đường chúng ta đang kiến tạo cho năm 2026.
+
+**Định hướng phong cách (Art Direction):**
+
+*   **Tinh tế & Tối giản (Sophisticated Minimalism):** Chúng ta sẽ sử dụng nhiều không gian trắng (white space) để tạo cảm giác sang trọng, thoáng đãng, 
+giúp người xem tập trung vào những gì quan trọng nhất: con số và thông điệp.
+*   **Màu sắc:**
+    *   **Màu chủ đạo:** Giữ vững màu Đỏ và Xám đậm của thương hiệu Techcombank để tạo sự nhận diện và uy tín.
+    *   **Màu nhấn (Accent Colors):** Sử dụng một bảng màu phụ trợ hiện đại:
+        *   **Xanh Navy Đậm:** Tượng trưng cho sự tin cậy, chiều sâu và ổn định.
+        *   **Vàng Đồng (Gold/Bronze):** Thể hiện sự thịnh vượng, chất lượng cao cấp và những thành tựu vượt trội.
+        *   **Xanh Ngọc Lục Bảo (Emerald Green):** Dùng cho các chỉ số tăng trưởng tích cực, mang lại cảm giác tươi mới và phát triển.
+*   **Hình ảnh & Đồ họa:**
+    *   **Hình ảnh trừu tượng:** Thay vì dùng ảnh chụp người thật, chúng ta sẽ sử dụng các hình ảnh trừu tượng, mang tính gợi mở về dòng chảy dữ liệu, kiến trúc hiện đại, và những đường ánh sáng chuyển động. Điều này tạo cảm giác công nghệ, tương lai và tầm vóc quốc tế.
+    *   **Họa tiết "Sóng":** Một đường lượn sóng tinh tế, được cách điệu hóa, sẽ được sử dụng như một yếu tố đồ họa xuyên suốt (graphic motif) ở phần chân trang, đầu trang hoặc nền của các slide quan trọng, tạo sự kết nối và nhất quán cho câu chuyện "Vượt Sóng".
+
+**Moodboard Tham Khảo:**
+
+Imagine a blend of the clean, data-driven aesthetic of a Bloomberg Terminal report with the sophisticated layout of *The Economist* or *Harvard Business 
+Review* magazine.
+
+|  |  |  |
+| :---: | :---: | :---: |
+| **Màu sắc & Bố cục** | **Hình ảnh Trừu tượng** | **Typography & Không gian trắng** |
+
+---
+
+### **2. Cấu Trúc Báo Cáo & Giải Pháp Thị Giác Chi Tiết**
+
+Tôi sẽ cấu trúc báo cáo thành 4 phần chính, mỗi phần là một chương trong câu chuyện của chúng ta, với các giải pháp thị giác được thiết kế riêng.        
+
+#### **Phần 1: Dấu Ấn 2025 - Nền Tảng Tăng Trưởng Vững Vàng**
+
+*Mục tiêu thị giác: Truyền tải cảm giác về quy mô, sức mạnh và sự tin tưởng của khách hàng.*
+
+| Section | Visualization Idea |
+| :--- | :--- |
+| **Tổng quan tài sản & Huy động** | `[{'chart_type': 'Biểu đồ vùng xếp chồng (Stacked Area Chart) kết hợp số liệu lớn (Big Numbers)'}, {'purpose': 'Thể 
+hiện sự tăng trưởng đồng thời của Tổng tài sản và Tiền gửi của khách hàng qua từng quý. Con số lớn ở cuối biểu đồ sẽ nhấn mạnh cột mốc 1 triệu tỷ đồng tài sản.'}, {'style_notes': 'Sử dụng màu Xanh Navy cho vùng "Tổng tài sản" và màu Xanh Ngọc cho vùng "Tiền gửi". Con số 1,037,645 tỷ sẽ được làm nổi bật với font chữ lớn, màu Vàng Đồng. Đường line của biểu đồ mềm mại, gợi hình ảnh con sóng đi lên.'}, {'storytelling_element': 'Tiêu đề: **"Nền Tảng Vững Chắc: Vượt Mốc 1 Triệu Tỷ Đồng"**. Dòng insight ngắn gọn bên dưới: "Tăng trưởng tài sản 14.2% cho thấy niềm tin vững chắc của thị trường và khách hàng." '}]` 
+|
+| **Lợi thế CASA** | `[{'chart_type': 'Biểu đồ cột kết hợp biểu đồ đường (Bar & Line Chart)'}, {'purpose': 'So sánh trực quan tỷ lệ CASA của TCB với trung bình ngành, cho thấy rõ lợi thế cạnh tranh vượt trội.'}, {'style_notes': 'Cột CASA của TCB (41.1%) sẽ dùng màu Đỏ đặc trưng, cao và nổi bật. Đường kẻ mảnh (màu xám nhạt) thể hiện mức trung bình ngành ở phía dưới. Khoảng cách giữa cột và đường kẻ chính là câu chuyện về lợi thế của chúng ta.'}, {'storytelling_element': 'Tiêu đề: **"CASA - Động Cơ Của Sự Khác Biệt"**. Chú thích: "+199 bps so với cùng kỳ, khẳng định vị thế dẫn đầu tuyệt đối và tạo ra chi phí vốn cạnh tranh." '}]` |
+
+---
+
+#### **Phần 2: Thấu Hiểu Thử Thách - Tối Ưu Hiệu Suất**
+
+*Mục tiêu thị giác: Thể hiện sự minh bạch, nhìn thẳng vào thách thức nhưng nhấn mạnh vào khả năng kiểm soát và xu hướng phục hồi.*
+
+| Section | Visualization Idea |
+| :--- | :--- |
+| **Phân tích Lợi nhuận trước thuế (PBT)** | `[{'chart_type': 'Biểu đồ thác nước (Waterfall Chart) cách điệu'}, {'purpose': 'Bóc tách các yếu tố cấu thành Lợi nhuận trước thuế, cho thấy rõ tác động của Thu nhập lãi, Thu nhập ngoài lãi và Chi phí hoạt động.'}, {'style_notes': 'Cột bắt đầu (Tổng thu nhập HĐ 2024) và cột kết thúc (LNTT 2025) dùng màu Xanh Navy. Các yếu tố tăng trưởng (giảm chi phí) dùng màu Xanh Ngọc. Các yếu tố sụt giảm (giảm thu nhập, tăng chi phí) dùng màu Cam đất (Terra Cotta - một màu sang trọng, không quá tiêu cực).'}, {'storytelling_element': 'Tiêu đề: **"Hành Trình Tới Lợi Nhuận: Tối Ưu Hóa Trong Bối Cảnh Thách Thức"**. Điểm nhấn sẽ là cột tăng trưởng của Quý 2/2025 so với Quý 1/2025 để cho thấy đà phục hồi tích cực.'}]` |
+| **Biên lãi ròng (NIM) & Tỷ suất sinh lời (ROE)** | `[{'chart_type': 'Biểu đồ đường kép (Dual-axis Line Chart)'}, {'purpose': 'Hiển thị song song xu hướng của NIM và ROE trong 2 năm, giúp HĐQT thấy được mối tương quan và bối cảnh chung của toàn ngành.'}, {'style_notes': 'Sử dụng đường nét đứt (dashed line) cho năm 2024 và đường nét liền (solid line) cho năm 2025. Chú thích rõ ràng các điểm mốc thời gian. Vùng chênh lệch giữa hai năm sẽ được tô màu xám nhạt để nhấn mạnh áp lực suy giảm.'}, {'storytelling_element': 'Tiêu đề: **"Đối Diện Áp Lực Lợi Nhuận, Tìm Kiếm Động Lực Mới"**. Thay vì chỉ trình bày sự sụt giảm, chúng ta sẽ thêm một box chú thích về các hành động đã thực hiện để cải thiện tình hình, thể hiện sự chủ động.'}]` |
+
+---
+
+#### **Phần 3: Quản Trị Rủi Ro - Lá Chắn Vững Bền**
+
+*Mục tiêu thị giác: Truyền tải sự an toàn, chắc chắn và kỷ luật.*
+
+| Section | Visualization Idea |
+| :--- | :--- |
+| **Chất lượng tài sản (NPL & Tỷ lệ bao phủ nợ xấu)** | `[{'chart_type': 'Infographic dạng "Đồng hồ đo" hoặc "Thanh trạng thái" (Gauge/Status Bar Infographic)'}, {'purpose': 'Thay vì biểu đồ phức tạp, chúng ta dùng một infographic đơn giản để thể hiện NPL đang ở mức kiểm soát tốt và Tỷ lệ bao phủ nợ xấu ở mức an toàn cao.'}, {'style_notes': 'Sử dụng một thanh ngang. Vùng "An toàn" màu xanh, vùng "Cảnh báo" màu vàng. Kim chỉ NPL (1.32%) sẽ nằm gọn trong vùng xanh. Bên dưới là một "lá chắn" icon với con số 106.4% (Tỷ lệ bao phủ) được đặt ở trung tâm.'}, {'storytelling_element': 'Tiêu đề: **"Chất Lượng Tài Sản Được Kiểm Soát Chặt Chẽ"**. Thông điệp: "NPL ổn định dưới ngưỡng cảnh báo, trong khi bộ đệm dự phòng luôn được duy trì ở mức cao, đảm bảo an toàn cho 
+ngân hàng." '}]` |
+
+---
+
+#### **Phần 4: Tầm Nhìn 2026 - Kiến Tạo Động Lực Mới**
+
+*Mục tiêu thị giác: Truyền cảm hứng, thể hiện sự rõ ràng trong chiến lược và tập trung vào tương lai.*
+
+| Section | Visualization Idea |
+| :--- | :--- |
+| **Ba Trụ Cột Chiến Lược 2026** | `[{'chart_type': 'Sơ đồ khái niệm (Conceptual Diagram)'}, {'purpose': 'Trình bày 3 lĩnh vực ưu tiên cho năm 2026 một cách trực quan, logic và dễ nhớ, thay vì một danh sách gạch đầu dòng nhàm chán.'}, {'style_notes': 'Sử dụng một sơ đồ 3 vòng tròn giao thoa. Vùng giao thoa ở giữa là logo Techcombank, tượng trưng cho nền tảng cốt lõi. Mỗi vòng tròn là một trụ cột chiến lược (ví dụ: "Số hóa Trải nghiệm Khách hàng Doanh nghiệp", "Dẫn đầu Mảng Tư vấn Đầu tư & Gia sản", "Tối ưu Hệ sinh thái Thanh toán"). Mỗi vòng tròn có một icon riêng biệt và màu sắc tương ứng (Xanh Navy, Vàng Đồng, Xanh Ngọc).'}, {'storytelling_element': 'Tiêu đề: **"Kiến Tạo Tương Lai: Ba Trọng Tâm Bứt Phá 2026"**. Mỗi trụ cột sẽ có một câu tagline súc tích giải thích lý do tại sao nó quan trọng.'}]` |
+
+### **Kết Luận và Cam Kết**
+
+Toàn bộ thiết kế sẽ đảm bảo tính nhất quán trên cả hai định dạng:
+
+1.  **Trình chiếu hội trường:** Slide sẽ được thiết kế với bố cục thoáng, chữ lớn, biểu đồ rõ ràng và thông điệp cô đọng. Mỗi slide là một điểm nhấn thị 
+giác, giúp người trình bày dẫn dắt câu chuyện hiệu quả.
+2.  **Booklet tại bàn:** Tài liệu in sẽ có thêm các phân tích chi tiết, chú thích và dữ liệu bổ sung. Hệ thống lưới (Grid System) chặt chẽ sẽ đảm bảo tính chuyên nghiệp và dễ đọc, ngay cả với lượng thông tin dày đặc.
+
+Với định hướng này, tôi tin rằng chúng ta sẽ tạo ra một sản phẩm báo cáo không chỉ đáp ứng yêu cầu về thông tin mà còn nâng tầm trải nghiệm của Hội đồng 
+Quản trị, thể hiện đúng vị thế và tầm vóc của Techcombank.
+
+Xin trân trọng cảm ơn.
+-----------------------------------

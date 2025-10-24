@@ -1,0 +1,24 @@
+{
+  "project_name": "Báo cáo Hội Đồng Quản trị-Techcombank 2025 Insights",
+  "product_type": "Booklet",
+  "requirements": [
+    "Tóm tắt kết quả hoạt động tài chính",
+    "Đưa ra khuyến nghị chiến lược, triển vọng cho năm 2026",
+    "Sáng tạo về mặt hình ảnh (visual)",
+    "Trình bày chuyên nghiệp, hiện đại, dễ hiểu",
+    "Tối ưu cho trình chiếu màn hình lớn (hội trường) và đọc tài liệu tại bàn làm việc của hội đồng quan trị",
+    "Sáng tạo mới hoàn toàn",
+    "Ngôn ngữ tiếng Việt",
+    "So sánh với năm 2024, phải dùng biểu đồ và hình ảnh để kể câu chuyện"
+  ],
+  "suggestion": ["Xác định 3–5 điểm nổi bật về tài chính (tăng trưởng, lợi nhuận, rủi ro, v.v.)",
+    "trích insight, minh họa dữ liệu, hoặc đơn giản hóa thuật ngữ tài chính.",
+    "Làm nổi bật các rủi ro và cơ hội mới nổi",
+    "Gợi ý ba lĩnh vực hoặc sản phẩm trọng tâm mà Techcombank nên ưu tiên trong năm 2026",
+    "Giải thích lý do và minh họa bằng hình ảnh, sơ đồ hoặc mô hình khái niệm"
+  ],
+  "theme": "Dạng báo cáo tài chính",
+  "style": "Trang trọng, hiện đại",
+  "target_audience": "hội đồng quản trị",
+  "context": "Sản phẩm dùng để gửi báo cáo tới Hội đồng quản trị Techcombank (tháng 1/2026): đặt trên bàn hội đồng, trình chiếu hội trường hoặc gửi cho báo chí, truyền thông."
+}

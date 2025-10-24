@@ -1,0 +1,124 @@
+
+Nhiệm vụ của chúng ta đã rõ ràng. Yêu cầu của tôi đối với từng thành viên là sự tập trung cao độ, chủ động và phối hợp chặt chẽ. Mỗi người là một mắt xích quan trọng, và chỉ khi tất cả các mắt xích hoạt động hoàn hảo, chúng ta mới có thể tạo ra một sản phẩm xuất sắc.
+
+Hãy sẵn sàng để biến những con số khô khan thành một câu chuyện đầy cảm hứng về Techcombank.
+
+**"Kế hoạch hoàn hảo, thực thi xuất sắc, thành công trọn vẹn."**
+
+Trân trọng,
+
+**Project Manager**
+
+## Chuyên viên Sản xuất Báo cáo
+Chắc chắn rồi. Với vai trò là Chuyên viên Sản xuất Báo cáo, tôi xin trình bày kế hoạch chi tiết để sản xuất ấn phẩm "Báo cáo Hội Đồng Quản trị - Techcombank 2025 Insights".
+
+**Kính gửi Ban Lãnh đạo,**
+
+Dựa trên yêu cầu và dữ liệu được cung cấp, tôi đã xây dựng một kế hoạch sản xuất toàn diện cho ấn phẩm booklet. Mục tiêu của kế hoạch này không chỉ là trình bày số liệu, mà là kiến tạo một câu chuyện mạch lạc, trực quan và có tính định hướng cao, xứng tầm với một báo cáo chiến lược dành cho Hội đồng Quản 
+trị.
+
+Khẩu hiệu của tôi: **"Biến số liệu thành câu chuyện, biến báo cáo thành tác phẩm."**
+
+Dưới đây là cấu trúc chi tiết cho từng phần của ấn phẩm.
+
+---
+
+### **KẾ HOẠCH SẢN XUẤT TỔNG THỂ**
+**Tên ấn phẩm:** Báo cáo Hội Đồng Quản trị - Techcombank 2025 Insights
+**Định hướng thiết kế chung (Overall Visual Direction):**
+*   **Phong cách:** Tối giản (Minimalism), hiện đại, và sang trọng. Sử dụng nhiều không gian trắng (white space) để tạo cảm giác thoáng đãng, tập trung vào nội dung chính.
+*   **Màu sắc:** Sử dụng bộ màu thương hiệu của Techcombank (đỏ, đen, trắng) làm chủ đạo. Bổ sung một màu nhấn (accent color) – ví dụ: màu xám than hoặc 
+xanh navy đậm – để làm nổi bật dữ liệu quan trọng hoặc các yếu tố kêu gọi hành động.
+*   **Typography:** Sử dụng font chữ sans-serif hiện đại, dễ đọc trên cả màn hình và bản in. Phân cấp rõ ràng giữa tiêu đề chính, tiêu đề phụ, và nội dung.
+*   **Iconography:** Thiết kế bộ icon đồng nhất, sắc nét và mang tính biểu tượng để minh họa cho các khái niệm tài chính, rủi ro và cơ hội.
+
+---
+
+### **CHƯƠNG 1: TỔNG QUAN NĂM 2025 – NHỮNG DẤU ẤN NỔI BẬT**
+
+1.  **Mục tiêu truyền tải:** Tạo ấn tượng mạnh mẽ ngay từ đầu bằng việc nêu bật 3-4 thành tựu và thách thức lớn nhất của năm 2025. Cung cấp một cái nhìn 
+toàn cảnh trước khi đi vào chi tiết.
+2.  **Đề xuất Layout:**
+    *   **Trang Mở đầu (Trình chiếu):** Full-screen, một hình ảnh chủ đạo (abstract, liên quan đến công nghệ, tăng trưởng) với tiêu đề lớn "2025: NỀN TẢNG VỮNG CHẮC, THÁCH THỨC HIỆU SUẤT".
+    *   **Trang Nội dung (Trình chiếu & Booklet):** Layout 4 ô vuông (Grid layout). Mỗi ô là một "thẻ thông tin" (info card) làm nổi bật một chỉ số cốt lõi. Bố cục này giúp HĐQT nắm bắt thông tin nhanh chóng.
+3.  **Yếu tố Trực quan (Visuals):**
+    *   **Dữ liệu 1: Tăng trưởng Tổng Tài sản & Tiền gửi Khách hàng.**
+        *   **Loại biểu đồ đề xuất:** **Big Number Visualization với Sparkline (Biểu đồ số liệu lớn kèm đường xu hướng nhỏ).**
+        *   **Lý do:** Hiển thị ngay lập tức con số ấn tượng (+14.2% và +18.8%) và một đường line nhỏ thể hiện xu hướng tăng trưởng qua các quý. Tác động thị giác mạnh, phù hợp cho trang tổng quan.
+    *   **Dữ liệu 2: Duy trì vị thế dẫn đầu về CASA.**
+        *   **Loại biểu đồ đề xuất:** **Biểu đồ đồng hồ đo (Gauge Chart) hoặc Big Number.**
+        *   **Lý do:** Con số 41.1% là một thành tựu đặc biệt, cần được tôn vinh. Biểu đồ đồng hồ đo tạo cảm giác "đạt mục tiêu", nhấn mạnh sự xuất sắc. 
+    *   **Dữ liệu 3: Lợi nhuận trước thuế (PBT) và Hiệu suất Sinh lời (ROE).**
+        *   **Loại biểu đồ đề xuất:** **Thẻ thông tin với số liệu và mũi tên chỉ hướng (Info Card with directional arrow).**
+        *   **Lý do:** Các chỉ số này giảm nhẹ (-3.2% PBT, -199 bps ROE). Sử dụng mũi tên màu trung tính (xám) đi xuống cùng con số rõ ràng để thể hiện thách thức một cách trực diện, minh bạch nhưng không quá tiêu cực. Tránh dùng màu đỏ gây báo động ở trang tổng quan.
+    *   **Dữ liệu 4: Tối ưu hóa Chi phí Tín dụng.**
+        *   **Loại biểu đồ đề xuất:** **Biểu đồ đường đơn giản (Simple Line Chart).**
+        *   **Lý do:** Trực quan hóa xu hướng giảm của Chi phí Tín dụng (từ 1.1% xuống 0.6%), kể câu chuyện về quản trị rủi ro hiệu quả.
+4.  **Lưu ý đặc biệt:** Trang này phải tạo ra "khoảnh khắc ấn tượng" (wow moment) khi trình chiếu. Sử dụng hiệu ứng chuyển động nhẹ nhàng (subtle animation) để các con số lần lượt xuất hiện.
+
+---
+
+### **CHƯƠNG 2: PHÂN TÍCH HIỆU QUẢ HOẠT ĐỘNG TÀI CHÍNH**
+
+1.  **Mục tiêu truyền tải:** Đi sâu phân tích các chỉ số tài chính, so sánh chi tiết giữa 2025 và 2024, làm rõ các động lực tăng trưởng và các yếu tố ảnh hưởng đến lợi nhuận.
+2.  **Đề xuất Layout:** Layout 2 cột linh hoạt. Cột trái (rộng hơn) dành cho biểu đồ chính và các điểm nhấn. Cột phải (hẹp hơn) dành cho text phân tích, 
+trích insight và chú thích. Bố cục này tối ưu cho cả đọc và trình chiếu.
+3.  **Yếu tố Trực quan (Visuals):**
+    *   **Dữ liệu 1: So sánh Thu nhập Lãi thuần & Thu nhập ngoài lãi (6M24 vs 6M25).**
+        *   **Loại biểu đồ đề xuất:** **Biểu đồ cột nhóm (Grouped Bar Chart).**
+        *   **Lý do:** Cho phép so sánh song song cả hai nguồn thu nhập qua hai năm trên cùng một biểu đồ. Dễ dàng thấy được sự sụt giảm ở cả hai mảng và tỷ trọng của chúng.
+    *   **Dữ liệu 2: Phân tích Lợi nhuận trước thuế (PBT) 6M25.**
+        *   **Loại biểu đồ đề xuất:** **Biểu đồ thác nước (Waterfall Chart).**
+        *   **Lý do:** Đây là cách kể chuyện hiệu quả nhất cho sự thay đổi của PBT. Bắt đầu từ PBT 6M24, biểu đồ sẽ cho thấy các yếu tố tác động (tăng/giảm) như Thu nhập lãi, Thu nhập ngoài lãi, Chi phí hoạt động... để đi đến PBT 6M25. Biến con số -3.2% thành một câu chuyện có nguyên nhân rõ ràng.        
+    *   **Dữ liệu 3: Hiệu quả hoạt động (CIR, ROA, ROE).**
+        *   **Loại biểu đồ đề xuất:** **Biểu đồ Radar (Radar Chart) hoặc Bảng so sánh trực quan (Visual Comparison Table).**
+        *   **Lý do:** Biểu đồ Radar có thể thể hiện đa chiều các chỉ số hiệu quả của 2025 so với 2024 trên một hình duy nhất. Bảng so sánh với các thanh dữ liệu (data bars) và biểu tượng tăng/giảm là một giải pháp rõ ràng, dễ đọc hơn.
+4.  **Lưu ý đặc biệt:** Mỗi biểu đồ phải có một tiêu đề dạng "câu chuyện", ví dụ: thay vì "Biểu đồ CIR", hãy ghi "Tỷ lệ CIR được kiểm soát tốt bất chấp áp lực doanh thu". Điều này định hướng cách HĐQT diễn giải dữ liệu.
+
+---
+
+### **CHƯƠG 3: QUẢN TRỊ RỦI RO & AN TOÀN VỐN**
+
+1.  **Mục tiêu truyền tải:** Khẳng định năng lực quản trị rủi ro vững chắc của ngân hàng, thể hiện sự tuân thủ và an toàn vốn ở mức cao, tạo sự tin tưởng cho HĐQT.
+2.  **Đề xuất Layout:** Layout trang đơn (Single page layout) với một infographic lớn ở trung tâm, bao quanh là các chỉ số nhỏ hơn. Tập trung vào cảm giác an toàn, vững chãi.
+3.  **Yếu tố Trực quan (Visuals):**
+    *   **Dữ liệu 1: Tỷ lệ Nợ xấu (NPL) và Tỷ lệ bao phủ nợ xấu (Coverage Ratio).**
+        *   **Loại biểu đồ đề xuất:** **Biểu đồ kết hợp cột và đường (Combo Chart).**
+        *   **Lý do:** Cột thể hiện tỷ lệ NPL qua các quý (dao động nhẹ quanh 1.2-1.3%), trong khi đường thể hiện Tỷ lệ bao phủ nợ xấu vẫn ở mức cao (>100%). Điều này kể câu chuyện: "Dù nợ xấu có biến động nhẹ, chúng ta luôn có bộ đệm dự phòng vững chắc".
+    *   **Dữ liệu 2: An toàn vốn theo Basel II (CAR & Tier 1).**
+        *   **Loại biểu đồ đề xuất:** **Biểu đồ cột xếp chồng (Stacked Bar Chart).**
+        *   **Lý do:** Hiển thị tỷ lệ CAR tổng, trong đó làm nổi bật cấu phần Vốn cấp 1 (Tier 1). So sánh cột này với mức quy định tối thiểu của NHNN để 
+nhấn mạnh khoảng đệm an toàn rất lớn của Techcombank.
+4.  **Lưu ý đặc biệt:** Sử dụng màu xanh lá cây hoặc xanh dương nhạt cho các biểu đồ trong chương này để truyền tải thông điệp về sự an toàn, ổn định và 
+bền vững.
+
+---
+
+### **CHƯƠNG 4: TRIỂN VỌNG & KHUYẾN NGHỊ CHIẾN LƯỢC 2026**
+
+1.  **Mục tiêu truyền tải:** Chuyển từ phân tích quá khứ sang định hướng tương lai. Đề xuất 3 lĩnh vực trọng tâm một cách rõ ràng, thuyết phục và khả thi.
+2.  **Đề xuất Layout:** Mỗi khuyến nghị được trình bày trên một slide/trang riêng. Layout 3 phần: (1) Biểu tượng và Tên khuyến nghị; (2) Phân tích "Lý do" (Why) ngắn gọn; (3) Sơ đồ/Mô hình khái niệm minh họa "Cách thực hiện" (How).
+3.  **Yếu tố Trực quan (Visuals):** Đây là phần sáng tạo nhất, không phụ thuộc nhiều vào dữ liệu quá khứ.
+    *   **Khuyến nghị 1: Đẩy mạnh "Ngân hàng Giao dịch" - Khai thác sâu mỏ vàng CASA.**
+        *   **Loại hình ảnh đề xuất:** **Infographic dạng vòng lặp (Loop Infographic).**
+        *   **Lý do:** Minh họa vòng đời khách hàng: Thu hút bằng CASA -> Bán chéo sản phẩm (thẻ, vay tiêu dùng) -> Tăng cường dữ liệu -> Cá nhân hóa trải nghiệm -> Giữ chân và thu hút thêm. Vòng lặp thể hiện một hệ sinh thái bền vững.
+    *   **Khuyến nghị 2: Đa dạng hóa Thu nhập ngoài lãi - Tập trung vào Mảng Wealth Management.**
+        *   **Loại hình ảnh đề xuất:** **Sơ đồ cây (Tree Diagram) hoặc Sơ đồ phân nhánh.**
+        *   **Lý do:** Gốc cây là "Thu nhập ngoài lãi", các nhánh chính là "Phí dịch vụ", "Bancassurance", và đặc biệt là nhánh "Wealth Management" được 
+làm to, nổi bật nhất. Từ nhánh này, các nhánh con sẽ là "Tư vấn đầu tư", "Sản phẩm trái phiếu", "Quỹ mở"...
+    *   **Khuyến nghị 3: Tín dụng chọn lọc - Hướng tới Tăng trưởng Bền vững.**
+        *   **Loại hình ảnh đề xuất:** **Mô hình 3 vòng tròn giao nhau (Venn Diagram).**
+        *   **Lý do:** 3 vòng tròn đại diện cho: (1) Lĩnh vực có tiềm năng cao (Công nghệ, Năng lượng tái tạo), (2) Khách hàng có hồ sơ rủi ro thấp, (3) 
+Lĩnh vực phù hợp với chiến lược ESG. Giao điểm ở giữa chính là "Phân khúc Tín dụng Ưu tiên 2026".
+4.  **Lưu ý đặc biệt:** Ngôn ngữ thiết kế ở chương này phải mang tính tương lai, sử dụng các đường nét thanh mảnh, gradient nhẹ và icon hiện đại để truyền cảm hứng và sự lạc quan.
+
+---
+Trên đây là kế hoạch sản xuất chi tiết cho ấn phẩm. Tôi tin rằng với cách tiếp cận này, chúng ta sẽ tạo ra một báo cáo không chỉ đầy đủ thông tin mà còn 
+có sức ảnh hưởng lớn, truyền tải đúng tầm nhìn và chiến lược của Techcombank tới Hội đồng Quản trị.
+
+Tôi đã sẵn sàng để bắt tay vào giai đoạn thiết kế chi tiết.
+
+Trân trọng,
+**Chuyên viên Sản xuất Báo cáo.**
+
+----------------------------------------
